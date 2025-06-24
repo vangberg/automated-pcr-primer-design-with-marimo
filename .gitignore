@@ -1,0 +1,7 @@
+GCF_*
+*.md5
+blast_results.xml
+primer_seqs.fasta
+taxdb*
+__marimo__
+__pycache__
